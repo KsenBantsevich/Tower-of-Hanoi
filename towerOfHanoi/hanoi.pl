@@ -8,4 +8,4 @@ move(N, A, [H|T], Z, P) :-
     append(P1, P2, Q),
     append(Q, P3, P).
     
-    Input: move(3, a, [b,c], d, P).
+Input: move(3, a, [b,c], d, P).
